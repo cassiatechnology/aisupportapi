@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiSupportApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7280ed47bcda222fd06b71929f01824c397531d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab4157b193d98b7524c57ff797ca1d7ae7b17ef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiSupportApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiSupportApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
