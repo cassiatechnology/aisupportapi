@@ -162,3 +162,4 @@ C:\dev\AiSupportApi\AiSupportApi\obj\Debug\net9.0\AiSupportApi.pdb
 C:\dev\AiSupportApi\AiSupportApi\obj\Debug\net9.0\AiSupportApi.genruntimeconfig.cache
 C:\dev\AiSupportApi\AiSupportApi\obj\Debug\net9.0\ref\AiSupportApi.dll
 C:\dev\AiSupportApi\AiSupportApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\dev\AiSupportApi\AiSupportApi\obj\Debug\net9.0\AiSupportApi.sourcelink.json
